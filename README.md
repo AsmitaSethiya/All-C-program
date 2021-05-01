@@ -24,4 +24,9 @@ Area = PI * Radius * Radius.
 In this program we decalre pi as a constant(the value which can not be change after initialize once) because pi value is fixed(3.141).
 and the constant value is declare using "const" keyword.
 
+3)  discount offfer Program :- 
+This is basic program in c language.
+In this program we use if-else conditional statements.
+in this program we apply 10% discount if the total bill is more than or equal to 500 rs
+
 
